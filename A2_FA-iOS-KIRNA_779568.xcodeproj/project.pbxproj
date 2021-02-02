@@ -14,6 +14,9 @@
 		3253B80225C8B242001BD36D /* A2_FA_iOS_KIRNA_779568.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3253B80025C8B242001BD36D /* A2_FA_iOS_KIRNA_779568.xcdatamodeld */; };
 		3253B80425C8B243001BD36D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3253B80325C8B243001BD36D /* Assets.xcassets */; };
 		3253B80725C8B243001BD36D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3253B80525C8B243001BD36D /* LaunchScreen.storyboard */; };
+		32637A1F25C9514700F0EBA5 /* ProductController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32637A1E25C9514700F0EBA5 /* ProductController.swift */; };
+		32637A2225C9636A00F0EBA5 /* FillProductTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32637A2125C9636A00F0EBA5 /* FillProductTableViewController.swift */; };
+		32637A2925C9757200F0EBA5 /* FillProviderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32637A2825C9757200F0EBA5 /* FillProviderViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		3253B80325C8B243001BD36D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3253B80625C8B243001BD36D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3253B80825C8B243001BD36D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32637A1E25C9514700F0EBA5 /* ProductController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductController.swift; sourceTree = "<group>"; };
+		32637A2125C9636A00F0EBA5 /* FillProductTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FillProductTableViewController.swift; sourceTree = "<group>"; };
+		32637A2825C9757200F0EBA5 /* FillProviderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FillProviderViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +72,9 @@
 				3253B80525C8B243001BD36D /* LaunchScreen.storyboard */,
 				3253B80825C8B243001BD36D /* Info.plist */,
 				3253B80025C8B242001BD36D /* A2_FA_iOS_KIRNA_779568.xcdatamodeld */,
+				32637A1E25C9514700F0EBA5 /* ProductController.swift */,
+				32637A2125C9636A00F0EBA5 /* FillProductTableViewController.swift */,
+				32637A2825C9757200F0EBA5 /* FillProviderViewController.swift */,
 			);
 			path = "A2_FA-iOS-KIRNA_779568";
 			sourceTree = "<group>";
@@ -142,7 +151,10 @@
 			files = (
 				3253B7FC25C8B242001BD36D /* ViewController.swift in Sources */,
 				3253B7F825C8B242001BD36D /* AppDelegate.swift in Sources */,
+				32637A2925C9757200F0EBA5 /* FillProviderViewController.swift in Sources */,
 				3253B7FA25C8B242001BD36D /* SceneDelegate.swift in Sources */,
+				32637A1F25C9514700F0EBA5 /* ProductController.swift in Sources */,
+				32637A2225C9636A00F0EBA5 /* FillProductTableViewController.swift in Sources */,
 				3253B80225C8B242001BD36D /* A2_FA_iOS_KIRNA_779568.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
